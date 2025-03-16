@@ -1,7 +1,7 @@
 # AIAgentPapers
 A collection of Ai Agent Papers.
 
-## Basics On Prompting
+## Basics on Prompting
 
 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
 
