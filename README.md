@@ -12,3 +12,8 @@ A collection of Ai Agent Papers.
 ## Hallucination
 
 [The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination](https://www.arxiv.org/pdf/2502.16143)
+
+## Organizing Multiple AI Agents
+
+[FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://arxiv.org/pdf/2407.06567)
+
