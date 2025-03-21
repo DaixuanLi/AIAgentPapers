@@ -17,5 +17,7 @@ A collection of Ai Agent Papers based on the functionalities.
 
 [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://arxiv.org/pdf/2407.06567)
 
+[Embodied LLM Agents Learn to Cooperate in Organized Teams](https://arxiv.org/pdf/2403.12482)
+
 ## Training/Improving Single Agent Performance
 
