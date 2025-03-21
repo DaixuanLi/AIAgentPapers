@@ -1,7 +1,7 @@
 # AIAgentPapers
 A collection of Ai Agent Papers based on the functionalities.
 
-## Training/Improving Single Agent Performance
+## Improving Single Agent Performance
 
 ### Prompting Optimization
 
