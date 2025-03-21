@@ -19,5 +19,10 @@ A collection of Ai Agent Papers based on the functionalities.
 
 [Embodied LLM Agents Learn to Cooperate in Organized Teams](https://arxiv.org/pdf/2403.12482)
 
+[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/pdf/2405.02957)
+
+[AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://openreview.net/pdf?id=EHg5GDnyq1)
+
+
 ## Training/Improving Single Agent Performance
 
