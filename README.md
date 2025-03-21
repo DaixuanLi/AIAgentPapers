@@ -26,3 +26,5 @@ A collection of Ai Agent Papers based on the functionalities.
 
 ## Training/Improving Single Agent Performance
 
+[Automatic Prompt Optimization with “Gradient Descent” and Beam Search](https://arxiv.org/pdf/2305.03495)
+
