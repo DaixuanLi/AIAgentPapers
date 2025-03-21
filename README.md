@@ -28,3 +28,5 @@ A collection of Ai Agent Papers based on the functionalities.
 
 [Automatic Prompt Optimization with “Gradient Descent” and Beam Search](https://arxiv.org/pdf/2305.03495)
 
+[Unleashing the Potential of Large Language Models as Prompt Optimizers: Analogical Analysis with Gradient-based Model Optimizers](https://arxiv.org/pdf/2402.17564)
+
