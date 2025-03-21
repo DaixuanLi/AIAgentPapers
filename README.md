@@ -1,6 +1,12 @@
 # AIAgentPapers
 A collection of Ai Agent Papers based on the functionalities.
 
+## Training/Improving Single Agent Performance
+
+[Automatic Prompt Optimization with “Gradient Descent” and Beam Search](https://arxiv.org/pdf/2305.03495)
+
+[Unleashing the Potential of Large Language Models as Prompt Optimizers: Analogical Analysis with Gradient-based Model Optimizers](https://arxiv.org/pdf/2402.17564)
+
 ## Organizing Multiple AI Agents
 
 [FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://arxiv.org/pdf/2407.06567)
@@ -10,13 +16,6 @@ A collection of Ai Agent Papers based on the functionalities.
 [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/pdf/2405.02957)
 
 [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://openreview.net/pdf?id=EHg5GDnyq1)
-
-
-## Training/Improving Single Agent Performance
-
-[Automatic Prompt Optimization with “Gradient Descent” and Beam Search](https://arxiv.org/pdf/2305.03495)
-
-[Unleashing the Potential of Large Language Models as Prompt Optimizers: Analogical Analysis with Gradient-based Model Optimizers](https://arxiv.org/pdf/2402.17564)
 
 ## Prompting Strategy
 
